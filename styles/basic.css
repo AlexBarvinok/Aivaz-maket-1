@@ -12,6 +12,10 @@ body {
   background-color: var(#fff);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .container {
   margin: 0 auto;
   max-width: 970px;
